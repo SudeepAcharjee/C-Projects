@@ -1,2 +1,2 @@
 # Assignmnets-c--sem1.BCA
-## Free to upsate if my code doesn't work
+## Free to update if my code doesn't work
