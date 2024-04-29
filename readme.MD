@@ -8,6 +8,22 @@ Welcome to the C Learning Repository! This repository contains a variety of prog
 - [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 - [Basic Level Projects](#basic-level-projects)
 
+## What's Inside?
+
+### Basic Programs
+
+Learn fundamental programming concepts such as operators, loops, conditional statements, arrays, pointers, and structures through practical examples and exercises.
+
+### Data Structures and Algorithms (DSA)
+
+Explore various data structures like linked lists, stacks, queues, trees, graphs, hash tables, and priority queues.
+Implement classic algorithms such as sorting (insertion sort, bubble sort), searching (linear search, binary search), and other algorithms relevant to data manipulation and optimization.
+
+### Basic Level Projects
+
+Dive into hands-on projects covering diverse domains including system utilities (file compression, database management), gaming (snake game, number guessing game), user authentication (OTP-based login system), academic (student grade system, library management), and finance (banking management).
+
+
 ## Basic Programs
 
 Explore fundamental programming concepts with the following programs:
