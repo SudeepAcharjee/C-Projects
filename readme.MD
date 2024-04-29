@@ -29,30 +29,16 @@ Explore fundamental programming concepts with the following programs:
 Explore various data structures and algorithms topics with the following programs:
 
 1. **Linked List Implementations:**
-   - `no11-ii(linklist).c`: Linked list implementation.
-   - `no11-i(stck arrray).c`: Stack implementation using arrays.
-   - `no8-9-doubly-linklist.c`: Doubly linked list implementation.
-   - `doubly-linklist.c`: Doubly linked list operations.
 
 2. **Sorting Algorithms:**
-   - `no2-insertionsort.c`: Implementation of insertion sort.
-   - `no2-bubblesort.c`: Implementation of bubble sort.
-
+  
 3. **Searching Algorithms:**
-   - `no1-linearsearch.c`: Linear search algorithm implementation.
-   - `no1-binarysearch.c`: Binary search algorithm implementation.
-
+  
 4. **Queue Implementations:**
-   - `17-18(circular-queue).c`: Circular queue implementation.
-   - `15-queue.c`: Queue implementation.
+  
 
 5. **Miscellaneous DSA Topics:**
-   - `no7.c`: Tree data structure implementation.
-   - `no6.c`: Graph data structure implementation.
-   - `no3-4.c`: Hash table implementation.
-   - `no5.c`: Priority queue implementation.
-   - `no-10.c`: Heap data structure implementation.
-   - `16.c`: Stack data structure implementation.
+   
 
 ## Basic Level Projects
 
