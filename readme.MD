@@ -12,27 +12,27 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 2. Student Grade System
 
 - Description: A program to track and manage student grades.
-- Blog Post: [Student Grade System Blog Post](link-to-blog-post)
+- Blog Post: [Student Grade System Blog Post]()
 
 ### 3. Snake Game
 
 - Description: Implementation of the classic Snake game.
-- Blog Post: [Snake Game Blog Post](link-to-blog-post)
+- Blog Post: [Snake Game Blog Post]()
 
 ### 4. OTP Login System
 
 - Description: A secure login system using OTP authentication.
-- Blog Post: [OTP Login System Blog Post](link-to-blog-post)
+- Blog Post: [OTP Login System Blog Post]()
 
 ### 5. Number Guessing Game
 
 - Description: A simple number guessing game.
-- Blog Post: [Number Guessing Game Blog Post](link-to-blog-post)
+- Blog Post: [Number Guessing Game Blog Post]()
 
 ### 6. Library Management System
 
 - Description: A program to manage library resources.
-- Blog Post: [Library Management System Blog Post](link-to-blog-post)
+- Blog Post: [Library Management System Blog Post](https://sudeep449.hashnode.dev/building-a-library-management-system-in-c)
 
 ### 7. File Compression Utility
 
