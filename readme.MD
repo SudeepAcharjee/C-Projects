@@ -16,7 +16,7 @@ Welcome to my C programming learning repository! This repository contains variou
 
 ### 3. Snake Game
 
-- Description: Implementation of the classic Snake game.
+- Description: Implementation of the classic Snake Game.
 - Blog Post: [Snake Game Blog Post](https://sudeep449.hashnode.dev/creating-a-simple-snake-game-in-c?source=more_articles_bottom_blogs)
 
 ### 4. OTP Login System
